@@ -7,11 +7,9 @@ Geospatial Analyst | GIS Specialist | Web Developer | AI Enthusiasts
 <p align="justify">
 A passionate Geoscientist and GIS Specialist with a knack for building Full-Stack Web Applications. Beyond academics, I'm driven by a thirst for knowledge and a love for creating. Whether it's building dynamic web apps, tinkering with machine learning algorithms, or exploring our planet's complexities, I'm always eager to learn and grow.
 </p>
-
-* 🌍  I'm based in Malang, Indonesia
-* ✉️  You can contact me at my [email](mailto:mziddanmalik@gmail.com)
-* 🧠  I'm currently learning R Code and Python
-* ⚡  I like cats
+<p align="justify">
+But what truly ignites my spirit as a web developer is creating solutions that seamlessly meet user needs, conquer challenges head-on, and adapt to the ever-evolving landscape of web technologies and trends. My journey is far from over, and I'm excited to see where my curiosity take me next. Stay tuned for updates, new projects, and more adventures in the world of technology and geoscience!
+</p>
 
 ### Skills
 
