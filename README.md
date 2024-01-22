@@ -57,3 +57,11 @@ Geospatial Analyst | GIS Specialist | Web Developer | AI Enthusiasts
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="45" height="45" alt="Google Cloud" /></a>
   </div>
 </p>
+
+## Socials
+
+<p align="left"> 
+ <div style="display: flex; gap: 10px;">
+  <a href="https://www.github.com/ZiddanMalik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /> </picture> </a>
+  </div>
+ </p>
